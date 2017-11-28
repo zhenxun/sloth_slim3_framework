@@ -1,0 +1,10 @@
+{
+    "name": "zhenxun/sloth_slim3_framework",
+    "authors": [
+        {
+            "name": "zhenxun",
+            "email": "zhenxun_9119@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
